@@ -1,0 +1,8 @@
+idnameagegendergradescore
+1.10674968 chris  18 98
+2.10674968 nana  19 97
+3.10674967 yaa  20 96
+4.22344 bhim  21 10
+5.34567 kay  89 87
+average age= 33.4
+average score= 77.6
